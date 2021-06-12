@@ -58,4 +58,8 @@ you've just cloned!!
 
 * <a href="https://chat.whatsapp.com/Cv1YIpB9FnY90qGPPF8Nup"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
----
+# sosmed
+
+* [`instagram`](https://instagram.com/zuxyganz_)
+
+* [`whatsapp`](https://wa.me/6285697725326?teks=sv+aku-ya-kak)
